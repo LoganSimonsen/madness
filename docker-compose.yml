@@ -1,0 +1,8 @@
+version: "3.7"
+services: 
+    madness:
+        build: .
+        volumes: 
+            - "./src:/var/www/html"
+        ports:
+            - "8009:80"
