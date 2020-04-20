@@ -19,7 +19,6 @@ Press `escape` to go back to the menu.
 ## TODO
 
 - Create playable space all objects must remain in (in-progress)
-- Wrap the ball from left to right and right to left when it exits the screen
 - JS must be enabled warning
 - High score DB
 - Make movement fluid and not in chunks of pixels at a time
